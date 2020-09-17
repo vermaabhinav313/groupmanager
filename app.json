@@ -38,11 +38,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "792109647"
+         "value": "1132363465"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "AnimeKaizoku"
+         "value": "Its_AV3"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.)",
@@ -88,7 +88,7 @@
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1360875846:AAGS9gAapSpvt3nqL_lEX49_oDzgMCAUgjA"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: @MyGroupChatUsernameBlah.",
@@ -98,7 +98,7 @@
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://sheltered-depths-08952.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
