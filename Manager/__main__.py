@@ -22,10 +22,10 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you.
-
+I am an Anime themed group management bot with some fun and extra features.
+Just give me a try to know about me!
 My owner is [This Person](t.me/Its_AV3)
-3
+
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
 
