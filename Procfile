@@ -1,2 +1,2 @@
-worker: python3 -m manager
+worker: python3 -m Manager
 ps:scale worker=1
