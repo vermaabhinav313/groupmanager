@@ -20,11 +20,11 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hey There {}!, my name is Nezuko!
 
-I am an Anime themed group management bot with some fun and extra features.
+I am an powerfull Anime themed group management bot with some fun and extra features.
 Just give me a try to know about me!
-My owner is [₳฿Ⱨł₦₳V 🇮🇳](t.me/Its_AV3)
+
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
@@ -44,7 +44,10 @@ Group Management Bot with advanced features.
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
+
+NEZUKO_IMG = "https://telegra.ph/file/911b04d1fb8f7e5673c85.jpg"
+
+DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @Its_AV3."""
 
 IMPORTED = {}
 MIGRATEABLE = []
