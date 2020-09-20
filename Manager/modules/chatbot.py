@@ -17,7 +17,7 @@ from Manager.modules.log_channel import gloggable
 from Manager.modules.helper_funcs.filters import CustomFilters
 from Manager.modules.helper_funcs.chat_status import user_admin
 
-CoffeeHouseAPI = API(AI_API_KEY)
+CoffeeHouseAPI = API(0f0fa332dd7d3a45ab9016166e610baf033ea636bb47a065d3027c7e809a95031a4d33e69fbcd95f06d8919bae226e5e2c649beffdcadd5ac99d0e30d2f30c25)
 api_client = LydiaAI(CoffeeHouseAPI)
 
 
