@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 I am an Anime themed group management bot with some fun and extra features.
 Just give me a try to know about me!
-My owner is [This Person](t.me/Its_AV3)
+My owner is [₳฿Ⱨł₦₳V 🇮🇳](t.me/Its_AV3)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
